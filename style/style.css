@@ -1,0 +1,43 @@
+body {
+  background-size: 100%;
+  background-color: black;
+}
+h1 {
+  color: aliceblue;
+  min-height: 100vh;
+  padding: 30px;
+  margin: 50px;
+  font-family: 'Jost', Geneva, Tahoma, sans-serif;
+}
+a:link {
+  color: white;
+}
+a:visited {
+  color: blue;
+}
+a:hover {
+  color:aqua
+}
+a:active {
+  color: crimson;
+}
+.menu {
+  color: aliceblue;
+  box-shadow: 0 0 20px wheat;
+}
+#logo {
+  width: 100px;
+  padding: 10px;
+  margin: 10px;
+  border: 30px solid
+}
+#mainmenu .menu {
+  padding: 40px;
+  margin: 30px;
+}
+#mainpartner .partner {
+  width: 100px;
+  height: 50px;
+  padding: 50px;
+  box-shadow: 0 0 20px wheat;
+}
